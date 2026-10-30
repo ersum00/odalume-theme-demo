@@ -8,7 +8,7 @@
       "cdn_id": "photo-1615471618985-97108e2ba478",
       "download_url": "https://images.unsplash.com/photo-1615471618985-97108e2ba478?auto=format&fit=crop&w=1800&q=85",
       "placement": [
-        "Yaşam notları / Marka hikâyesi"
+        "Ana sayfa karşılama görseli"
       ],
       "source_page": "https://unsplash.com/photos/living-room-with-white-curtains-vPKNB_gc23Q",
       "photographer": "Spacejoy",
@@ -23,7 +23,8 @@
       "cdn_id": "photo-1604061986761-d9d0cc41b0d1",
       "download_url": "https://images.unsplash.com/photo-1604061986761-d9d0cc41b0d1?auto=format&fit=crop&w=1200&q=85",
       "placement": [
-        "Oturma odası koleksiyonu"
+        "Yaşam alanları koleksiyonu",
+        "Marka hikâyesi"
       ],
       "source_page": "https://unsplash.com/photos/brown-wooden-table-near-green-sofa-zOPRKaYLSdE",
       "photographer": "Andrea Davis",
@@ -38,8 +39,7 @@
       "cdn_id": "photo-1650476524564-f94dc9669067",
       "download_url": "https://images.unsplash.com/photo-1650476524564-f94dc9669067?auto=format&fit=crop&w=1000&q=85",
       "placement": [
-        "Karşılama alanı",
-        "Örnek sandalye"
+        "Örnek sandalye ürünü"
       ],
       "source_page": "https://unsplash.com/photos/a-wooden-chair-sitting-on-top-of-a-wooden-floor-RCWIK0fsETc",
       "photographer": "insung yoon",
@@ -67,7 +67,7 @@
     {
       "file": "clock.jpg",
       "cdn_id": "photo-1533090161767-e6ffed986c88",
-      "download_url": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&w=1000&q=85",
+      "download_url": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&w=700&q=85",
       "placement": [
         "Örnek dekorasyon ürünü"
       ],
