@@ -1,0 +1,12 @@
+@font-face {
+  font-family: Manrope;
+  src: url('fonts/manrope-variable.ttf') format('truetype');
+  font-weight: 200 800;
+  font-style: normal;
+  font-display: swap;
+}
+.wp-block { max-width: var(--wp--style--global--content-size, 760px); }
+.wp-block[data-align="wide"] { max-width: var(--wp--style--global--wide-size, 1200px); }
+.wp-block[data-align="full"] { max-width: none; }
+img { max-width: 100%; height: auto; }
+a { text-underline-offset: .2em; }

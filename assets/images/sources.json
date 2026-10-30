@@ -1,0 +1,114 @@
+{
+  "checked_on": "2026-10-30",
+  "license_url": "https://unsplash.com/license",
+  "purpose": "Tema tasarımı ve örnek mağaza içeriği. Ürün fotoğrafları gerçek bir mağazanın ürün kayıtları değildir.",
+  "images": [
+    {
+      "file": "living-room.jpg",
+      "cdn_id": "photo-1615471618985-97108e2ba478",
+      "download_url": "https://images.unsplash.com/photo-1615471618985-97108e2ba478?auto=format&fit=crop&w=1800&q=85",
+      "placement": [
+        "Yaşam notları / Marka hikâyesi"
+      ],
+      "source_page": "https://unsplash.com/photos/living-room-with-white-curtains-vPKNB_gc23Q",
+      "photographer": "Spacejoy",
+      "source_page_verification": "verified",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "distribution": "included as illustrative demo assets under the separate Unsplash License; not sold as standalone photos",
+      "sha256": "d12ad974c86670349e81aaae06ead1535b686e6be97bbdaca3c06e3e5997eac2"
+    },
+    {
+      "file": "living-detail.jpg",
+      "cdn_id": "photo-1604061986761-d9d0cc41b0d1",
+      "download_url": "https://images.unsplash.com/photo-1604061986761-d9d0cc41b0d1?auto=format&fit=crop&w=1200&q=85",
+      "placement": [
+        "Oturma odası koleksiyonu"
+      ],
+      "source_page": "https://unsplash.com/photos/brown-wooden-table-near-green-sofa-zOPRKaYLSdE",
+      "photographer": "Andrea Davis",
+      "source_page_verification": "verified",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "distribution": "included as illustrative demo assets under the separate Unsplash License; not sold as standalone photos",
+      "sha256": "ac76613f0eb5ae315eaf949bfbb523aabf8d3855a0e8670f960508c89bf1aac1"
+    },
+    {
+      "file": "lounge-chair.jpg",
+      "cdn_id": "photo-1650476524564-f94dc9669067",
+      "download_url": "https://images.unsplash.com/photo-1650476524564-f94dc9669067?auto=format&fit=crop&w=1000&q=85",
+      "placement": [
+        "Karşılama alanı",
+        "Örnek sandalye"
+      ],
+      "source_page": "https://unsplash.com/photos/a-wooden-chair-sitting-on-top-of-a-wooden-floor-RCWIK0fsETc",
+      "photographer": "insung yoon",
+      "source_page_verification": "verified",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "distribution": "included as illustrative demo assets under the separate Unsplash License; not sold as standalone photos",
+      "sha256": "11fc8f4ac52118076d82d11de74210d0bf0aba2b6d2eaa9d47fea026d57ced14"
+    },
+    {
+      "file": "objects.jpg",
+      "cdn_id": "photo-1494438639946-1ebd1d20bf85",
+      "download_url": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=85",
+      "placement": [
+        "Aydınlatma koleksiyonu"
+      ],
+      "source_page": "https://unsplash.com/photos/black-floor-lamp-at-the-corner-3LTht2nxd34",
+      "photographer": "David van Dijk",
+      "source_page_verification": "verified",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "distribution": "included as illustrative demo assets under the separate Unsplash License; not sold as standalone photos",
+      "sha256": "3471b6f35d534c2a69260ee8f62d405183ce31374823684ff36831d692bf62fb"
+    },
+    {
+      "file": "clock.jpg",
+      "cdn_id": "photo-1533090161767-e6ffed986c88",
+      "download_url": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&w=1000&q=85",
+      "placement": [
+        "Örnek dekorasyon ürünü"
+      ],
+      "source_page": "https://unsplash.com/photos/white-desk-lamp-beside-green-plant-BlIhVfXbi9s",
+      "photographer": "Samantha Gades",
+      "source_page_verification": "verified",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "distribution": "included as illustrative demo assets under the separate Unsplash License; not sold as standalone photos",
+      "sha256": "b8a51ba607c41c733b70da9c3261e52b2b7a7838a0f7f49542f09d497a10771b"
+    },
+    {
+      "file": "lighting.jpg",
+      "cdn_id": "photo-1559154132-6d27bd0c65b0",
+      "download_url": "https://images.unsplash.com/photo-1559154132-6d27bd0c65b0?auto=format&fit=crop&w=1000&q=85",
+      "placement": [
+        "Örnek aydınlatma ürünü"
+      ],
+      "source_page": "https://unsplash.com/photos/black-and-white-floor-lamp-turned-on-Am0qdaxl2Ao",
+      "photographer": "yuna huang",
+      "source_page_verification": "verified",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "distribution": "included as illustrative demo assets under the separate Unsplash License; not sold as standalone photos",
+      "sha256": "bf0b127d8b6f64b41c760fc608b8c54787f5ed19d66a9e292088c03549362454"
+    },
+    {
+      "file": "sofa.jpg",
+      "cdn_id": "photo-1555041469-a586c61ea9bc",
+      "download_url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=85",
+      "placement": [
+        "Mobilya koleksiyonu",
+        "Örnek kanepe"
+      ],
+      "source_page": "https://unsplash.com/photos/green-fabric-sofa-fZuleEfeA1Q",
+      "photographer": "Phillip Goldsberry",
+      "source_page_verification": "verified",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "distribution": "included as illustrative demo assets under the separate Unsplash License; not sold as standalone photos",
+      "sha256": "097914f7094c4525d3cdb5f628f7bf94dc977cc0d59d0b5d5c0e64f82e2c5e60"
+    }
+  ]
+}
